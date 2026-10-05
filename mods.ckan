@@ -1,0 +1,303 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "installed-Kerbal-Space-Program--0-",
+    "name": "kspmods",
+    "abstract": "A list of modules installed on the Kerbal Space Program (0) KSP instance",
+    "author": "stubbertville",
+    "version": "2026.10.05.10.30.05",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalFX-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ClickThroughBlocker",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalChangelog",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalKonstructs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AstronomersVisualPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AVP-2kTextures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalPowersCore",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PhysicsRangeExtender",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROUtils",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularLaunchPads",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AtmosphericBeatsKSRSSconfigforEVEVolumetrics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AutomatedAerialRefueling",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AvionicsSystems",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BKWeaponsPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Chatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityResourcePack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DE-IVAExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DeployableEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DMagicScienceAnimate",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FilterExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FutureParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalPowersArmory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalScreenshots",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalFX-AeroFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalFX-BlastFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalFX-ImpactPuffs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalFX-RoverDust",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideRemastered",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "LunaMultiplayer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularComputerPackageRevived",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularFuelTanks",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MoreServos",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NorthKerbinDynamicsRenewedExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OPTSpacePlaneParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealSolarSystem",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ServoController",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShadowWorksStockalikeSLSandMore",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKitRecolored",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SimpleAdjustableFairings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SMURFF",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SSTOProject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SupplementaryElectricEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NewTantares",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TransferWindowPlanner",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TriggerAu-Flags",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-BDAssociated",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-KerbalFoundries",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-MakingHistory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-MPR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-NeistAir",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-NMB",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-OPT",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-StockRecolour",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-SXT",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScale",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-Munk",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselView",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterLaunchSites",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2026-10-05T22:30:05.803884Z",
+    "kind": "metapackage"
+}
